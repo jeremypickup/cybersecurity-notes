@@ -1,2 +1,2 @@
-# cybersecurity-notes
-My cybersecurity learning notes and projects
+# HTB CP machine practice
+My cp machine practice learning notes and writeup
