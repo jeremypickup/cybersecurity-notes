@@ -70,4 +70,4 @@ Content
 
 user_flag: e717b64682fd382788346443ca0b191f
 
-[Nibbles提權](https://www.notion.so/Nibbles-3336b41a3784808dae8df1ed8b9a8ba8?pvs=21)
+[Nibbles提權](https://github.com/jeremypickup/cybersecurity-notes/blob/main/Nibbles/Nibbles%20PE/Nibbles%E6%8F%90%E6%AC%8A%20.md)
