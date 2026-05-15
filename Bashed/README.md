@@ -1,0 +1,1 @@
+# HTB Bashed writeup
