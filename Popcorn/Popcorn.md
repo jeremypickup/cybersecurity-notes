@@ -80,4 +80,4 @@ TLS傳輸層安全協定。
 
 user_flag:　b157dee93572d60f8f02e14c5f4055a7
 
-[Popcorn提權](https://www.notion.so/Popcorn-3356b41a378480ebb4c5ddeb0c893c91?pvs=21)
+[Popcorn提權](https://github.com/jeremypickup/cybersecurity-notes/blob/main/Popcorn/Popcorn%20PE/Popcorn%20PE.md)
