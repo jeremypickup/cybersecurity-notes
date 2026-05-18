@@ -112,4 +112,4 @@ nmap -p 6697 --script=irc-unrealircd-backdoor.nse --script-args=irc-unrealircd-b
 
 ![image.png](image%2024.png)
 
-[Irked提權](https://www.notion.so/Irked-3456b41a3784807984b8dc7568beedd5?pvs=21)
+[Irked提權](https://github.com/jeremypickup/cybersecurity-notes/blob/main/Irked/Irked%20PE/Irked%E6%8F%90%E6%AC%8A%20.md)
