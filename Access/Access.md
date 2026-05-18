@@ -56,4 +56,4 @@ backup.mdb點開雖然有些字但一堆亂碼，就把這個.mdb的檔案用str
 
 ![image.png](image%2016.png)
 
-[Access提權](https://www.notion.so/Access-34a6b41a3784801d85bfcbb55aa2b82e?pvs=21)
+[Access提權](https://github.com/jeremypickup/cybersecurity-notes/blob/main/Access/Access%20PE/Access%E6%8F%90%E6%AC%8A.md)
