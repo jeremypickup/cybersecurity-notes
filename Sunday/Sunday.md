@@ -43,4 +43,4 @@ hydra -l sunny -P /usr/share/seclists/Passwords/Common-Credentials/probable-v2_t
 
 回到home目錄下來有另外一個user叫sammy，sammy底下有user.txt，cat後發現沒有權限，只能另尋他路。
 
-[Sunday提權](https://www.notion.so/Sunday-3496b41a3784805ba55cf2e59ca46c1e?pvs=21)
+[Sunday提權](https://github.com/jeremypickup/cybersecurity-notes/blob/main/Sunday/Sunday%20PE/Sunday%E6%8F%90%E6%AC%8A.md)
