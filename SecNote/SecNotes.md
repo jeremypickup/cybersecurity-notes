@@ -114,4 +114,4 @@ put /usr/share/windows-resources/binaries/nc.exe nc.exe
 
 smb relay:這是一種「中間人攻擊 (MITM)」。當網路中的一個使用者（特別是管理員）試圖存取攻擊者的機器（或攻擊者偽裝的服務）時，攻擊者並不直接破解其密碼，而是將接收到的 NTLM 身分驗證憑證即時轉發（Relay）到另一台目標機器。如果該憑證具備權限，攻擊者就能直接在目標機器上執行指令。
 
-[SecNotes 提權](https://www.notion.so/SecNotes-35d6b41a37848043b276f6866fd1cc11?pvs=21)
+[SecNotes 提權](https://github.com/jeremypickup/cybersecurity-notes/blob/main/SecNote/SecNote%20PE/SecNotes%20PE.md)
