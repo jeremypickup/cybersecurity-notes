@@ -54,4 +54,4 @@ then r**evise file**
 
 ![image.png](image%2011.png)
 
-[Love 提權](https://www.notion.so/Love-3516b41a378480d6bdded127019afae6?pvs=21)
+[Love 提權](https://github.com/jeremypickup/cybersecurity-notes/blob/main/Love/Love%20PE/Love%20PE.md)
